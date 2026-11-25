@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Pathway guidance rules live as plain if/else functions in src/lib/pathway.ts, tested in src/test/pathway.test.ts — user asked for simple rules, no AI API.
